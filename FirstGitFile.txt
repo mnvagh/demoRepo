@@ -5,6 +5,8 @@ Let's do this
 May be I will maintain some links for learning
 
 https://www.youtube.com/watch?v=WbwIoQYP6no  -- Git Tutorial for Beginners
+https://www.youtube.com/watch?v=b5oQZdzA37I  -- Git Commands With Examples | Git Tutorial | Git Branching & Merging | DevOps Training | Edureka
+
 
 
 Some branch changes12
